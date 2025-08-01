@@ -37,6 +37,8 @@ This project is a full-stack ecommerce web application built using Django (backe
 - Fixed import path issues and ensured all UI components render correctly
 - Verified Bootstrap is loaded via `main.jsx` and `package.json`
 - Added product card and header components for homepage
+- **Fetching and Rendering Products on the Homepage**
+- **Adding Loading Skeletons on the Homepage for Products**
 
 ## Requirements
 - Python 3.13+
@@ -122,10 +124,4 @@ This project is a full-stack ecommerce web application built using Django (backe
 
 ## Next Steps
 - Expand React frontend: product listing, cart, and order features
-- Connect React with Django REST API
-- Enhance backend APIs for frontend needs
-- Add authentication and user profile features
-
----
-
-**Note:** This README will be updated as the project progresses. Today's session focused on React setup, UI component rendering, and fixing
+- Connect React with Django
